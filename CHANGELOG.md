@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.2](https://github.com/UzumakiHan/commitlint-config-hfex/compare/v1.0.1...v1.0.2) (2023-06-05)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* 修改package git ([6fdabc3](https://github.com/UzumakiHan/commitlint-config-hfex/commit/6fdabc3dd503fb792c27a15c29f49fb1b407aa40))
+* 修改package name ([4535fbd](https://github.com/UzumakiHan/commitlint-config-hfex/commit/4535fbd947e535924cc82472db6eb2676d74641b))
+* 修改package name ([719cd79](https://github.com/UzumakiHan/commitlint-config-hfex/commit/719cd79444df1209ca9fba1dd29cfdfe885e42dc))
+
 ## [1.0.1](https://github.com/UzumakiHan/hfex-commitlint-config/compare/v1.0.0...v1.0.1) (2023-06-04)
 
 
