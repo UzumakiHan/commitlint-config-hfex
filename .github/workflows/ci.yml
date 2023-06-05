@@ -22,12 +22,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
-
-config:
-  release-type: github
-  github:
-    default-branch: master
-    baseUrl: https://github.com/<owner>/<repo>
+  
 # 任务
 jobs:
   CIBUILD:
