@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:UzumakiHan/hfex-commitlint-config.git"
+    "url": "git@github.com:UzumakiHan/commitlint-config-hfex.git"
   },
   "keywords": [],
   "files": [
