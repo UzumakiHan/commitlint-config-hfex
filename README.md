@@ -34,7 +34,7 @@
 ### install package
 
 ```bash
-pnpm install husky hfex-commitlint-config @commitlint/cli -D
+pnpm install husky commitlint-config-hfex @commitlint/cli -D
 ```
 
 ### init husky
