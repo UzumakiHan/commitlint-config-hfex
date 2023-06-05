@@ -51,8 +51,17 @@ npx husky add .husky/commit-msg  'npx --no -- commitlint --edit ${1}'
 ### 在项目根目录新增配置文件commitlint.config.js
 ```js
 module.exports = {
-  extends: [require.resolve('hfex-commitlint-config')],
+  extends: [require.resolve('commitlint-config-hfex')],
 };
+```
+
+### 或者在package.json添加
+```json
+"commitlint": {
+    "extends": [
+      "hfex"
+    ]
+  },
 ```
 
 ### 运行
